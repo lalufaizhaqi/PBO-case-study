@@ -229,4 +229,4 @@ classDiagram
     BankAccount <|-- SavingsAccount : Generalization
     BankAccount <|-- CheckingAccount : Generalization
 ```
-
+![Class Diagram](study%20case.PNG)
